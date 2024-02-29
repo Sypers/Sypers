@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad AKA Sypers</h1>
 <h3 align="center">A passionate Object-Oriented programmer</h3>
 
-- 🔭 I’m currently working on Sakinah: An android app to mute your phone during islamic prayer times. 
+- 🔭 I’m currently working on **Sakinah**: An android app to mute your phone during islamic prayer times. 
 
 - 🌱 I’m currently learning **android app development, databases, web development**
 
